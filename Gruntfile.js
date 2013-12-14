@@ -23,8 +23,9 @@ module.exports = function(grunt) {
     }
   });
 
-  // Load the plugin that provides the "uglify" task.
+  // Load the plugin that provides the "coffee" task.
   grunt.loadNpmTasks('grunt-contrib-coffee');
+  // Load the plugin that provides the "watch" task.
   grunt.loadNpmTasks('grunt-contrib-watch');
 
   // Default task(s).
