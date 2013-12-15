@@ -1,14 +1,6 @@
 (function() {
-  var changeNumbers, inner, outer;
+  var toto;
 
-  outer = 1;
-
-  changeNumbers = function() {
-    var inner;
-    inner = -1;
-    return outer = 10;
-  };
-
-  inner = changeNumbers();
+  toto = "hello ";
 
 }).call(this);
