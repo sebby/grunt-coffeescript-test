@@ -67,15 +67,8 @@ greet  = (person)->
         when "Friend" then "Hi Friend!"
         when "Boss" then "Hi Sir"
         else "Hello!"
-        
+
     console.log msg2
 
 greet person
 greet person2
-
-
-
-
-
-
-
