@@ -92,8 +92,6 @@
     return console.log(msg2);
   };
 
-  greet(person);
-
   greet(person2);
 
 }).call(this);
