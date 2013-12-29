@@ -1,6 +1,6 @@
 # Formations avec les courses de Tutplus
 
-Nous allons par la course
+Voir le cours présent sur le site Tutplus
 [Cleaner code With CofffeeScript](https://tutsplus.com/course/cleaner-code-with-coffeescript/)
 
 
